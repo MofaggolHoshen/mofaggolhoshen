@@ -49,18 +49,45 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)&nbsp;
 ![MassTransit](https://img.shields.io/badge/MassTransit-5E5E5E?style=for-the-badge)&nbsp;
-![Hangfire](https://img.shields.io/badge/Hangfire-0099FF?style=for-the-badge)&nbsp;
 
 ---
 
-### 🎯 &nbsp;Featured Projects
+### ⭐ &nbsp;Featured Projects
 
-⭐ **[SaaS Multi-Tenant API](https://github.com/MofaggolHoshen/dotnet-saas-multitenant-api)** - Production-ready SaaS backend with ASP.NET Core, tenant isolation, and Clean Architecture\
-⭐ **[Bulk Message Orchestrator](https://github.com/MofaggolHoshen/bulk-message-orchestrator)** - Scalable message system with Hangfire, MassTransit & Azure Service Bus\
-⭐ **[Auth Service](https://github.com/MofaggolHoshen/dotnet-auth-service)** - Enterprise-grade authentication with JWT & email verification\
-⭐ **[Write Better C# Code](https://github.com/MofaggolHoshen/write-better-csharp-code)** - Comprehensive guide to clean, maintainable C# code\
-⭐ **[Software Design Patterns](https://github.com/MofaggolHoshen/software-design-patterns)** - GoF patterns & microservices architecture in C#
+#### 🔐 &nbsp;[ASP.NET Core Auth Service](https://github.com/MofaggolHoshen/dotnet-auth-service)
+Production-ready authentication service with **JWT tokens, email verification & password reset**\
+🔧 *Tech:* ASP.NET Core 9 | SQL Server | BCrypt | FluentValidation | xUnit\
+✨ *Features:* Multi-provider email (SMTP/SendGrid), token refresh, global exception handling, 100% test coverage
+
+---
+
+#### 💳 &nbsp;[Stripe Payment Integration](https://github.com/MofaggolHoshen/dotnet-stripe-payment-demo)
+End-to-end payment processing with **Stripe API**, webhooks & subscription management\
+🔧 *Tech:* ASP.NET Core | Stripe SDK | PostgreSQL | Entity Framework Core\
+✨ *Features:* Payment intent handling, webhook security, charge & refund operations, test mode support
+
+---
+
+#### 📱 &nbsp;[Habito — Habit & Task Tracker](https://github.com/MofaggolHoshen/habito)
+Mobile-first React Native app for **daily habit tracking, task management & mood monitoring**\
+🔧 *Tech:* React Native | TypeScript | SQLite | React Context API\
+✨ *Features:* Interactive calendar, 6 pre-built templates, daily ratings, streak tracking, analytics dashboard with 8 achievement badges, 3,344+ lines of code
+
+---
+
+#### 🏗️ &nbsp;[SaaS Multi-Tenant API](https://github.com/MofaggolHoshen/dotnet-saas-multitenant-api)
+Scalable multi-tenant SaaS backend with **Clean Architecture, CQRS & DDD**\
+🔧 *Tech:* ASP.NET Core .NET 10 | PostgreSQL | Redis | MediatR | Docker | Polly\
+✨ *Features:* Row-level tenant isolation, JWT authentication, rate limiting, security headers, comprehensive test coverage, Swagger documentation, Docker & compose ready
+
+---
+
+#### 🔄 &nbsp;[Multi-Tenant HttpClientFactory](https://github.com/MofaggolHoshen/dotnet-saas-multitenant-api)
+Advanced HTTP client management for **dynamic external service integrations per tenant**\
+🔧 *Tech:* ASP.NET Core | HttpClientFactory | Polly | Dependency Injection\
+✨ *Features:* Per-tenant configuration, resilience patterns, automatic retry & circuit breaker, service isolation
 
 ---
 
@@ -68,10 +95,10 @@
 
 <p align="center">
   <a href="https://github.com/MofaggolHoshen">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MofaggolHoshen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MofaggolHoshen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/MofaggolHoshen">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MofaggolHoshen&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MofaggolHoshen&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
@@ -80,17 +107,15 @@
 </p>
 
 ---
-<!-- ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MofaggolHoshen&label=Profile%20views&color=brightgreen" alt="MofaggolHoshen" />
-</p>
-
------- -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mofaggol-hoshen/"><img src="https://img.shields.io/badge/-MofaggolHoshen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-mofaggol.hoshen-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/MofaggolHoshen"><img src="https://img.shields.io/badge/-MofaggolHoshen-121011?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mofaggol-hoshen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/MofaggolHoshen"><img src="https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MofaggolHoshen&label=Profile%20views&color=brightgreen" alt="MofaggolHoshen" />
 </p>
