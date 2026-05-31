@@ -91,6 +91,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mofaggol-hoshen/"><img src="https://img.shields.io/badge/-MofaggolHoshen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-mofaggol.hoshen-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-Mofaggol.Hoshen-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/MofaggolHoshen"><img src="https://img.shields.io/badge/-MofaggolHoshen-121011?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://mofaggolhoshen.github.io/"><img src="https://img.shields.io/badge/-My%20Work-0A66C2?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
