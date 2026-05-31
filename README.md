@@ -68,10 +68,10 @@
 
 <p align="center">
   <a href="https://github.com/MofaggolHoshen">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MofaggolHoshen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MofaggolHoshen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/MofaggolHoshen">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MofaggolHoshen&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MofaggolHoshen&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -80,15 +80,17 @@
 </p>
 
 ---
+<!-- ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MofaggolHoshen&label=Profile%20views&color=brightgreen" alt="MofaggolHoshen" />
+</p>
+
+------ -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mofaggol-hoshen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/MofaggolHoshen"><img src="https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MofaggolHoshen&label=Profile%20views&color=brightgreen" alt="MofaggolHoshen" />
+  <a href="https://www.linkedin.com/in/mofaggol-hoshen/"><img src="https://img.shields.io/badge/-MofaggolHoshen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mofaggol.hoshen@outlook.com"><img src="https://img.shields.io/badge/-mofaggol.hoshen-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/MofaggolHoshen"><img src="https://img.shields.io/badge/-MofaggolHoshen-121011?style=flat&logo=github&logoColor=white"/></a>
 </p>
