@@ -5,7 +5,7 @@
 👨‍💻 &nbsp;I'm a Full-Stack Developer and System Architect with expertise in backend engineering and cloud-native solutions.\
 🚀 &nbsp;Passionate about building scalable, production-ready systems and sharing knowledge with the community.\
 💼 &nbsp;Experienced in microservices architecture, design patterns, and enterprise-grade applications.\
-✉️ &nbsp;You can reach me at mofaggol.hoshen@outlook.com! I'd love to discuss architecture, design patterns, or collaborate on projects.
+✉️ &nbsp;You can reach me at mofaggol.hoshen@outlook.com or mofaggol.hoshen@gmx.de, I'd love to discuss architecture, design patterns, or collaborate on projects.
 
 ---
 
